@@ -1,0 +1,14 @@
+{
+  "name": "gulp-site-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {},
+  "author": "Anthony Della Camera <anthonydc@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.7.11",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.1"
+  }
+}
