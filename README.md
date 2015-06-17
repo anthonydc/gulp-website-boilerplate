@@ -6,6 +6,8 @@ Navigate to your project directory using the command line and run the following 
 
     npm install
 
+Then run gulp
+
 That's it! You're ready to start using Gulp.
 
 Using Gulp
@@ -18,7 +20,7 @@ Default Task
 
     gulp
 
-Running the default task automatically watches your project folders for any changes and runs the accompanying task. For example, if you've elected to run tasks on your JavaScript, anytime you change a JavaScript file gulp will automatically run those tasks, including a browser refresh if you've included BrowserSync.
+Running the default task automatically watches your project folders for any changes and runs the accompanying task. For example, anytime you change a JavaScript file gulp will automatically run those tasks, including a browser refresh if you've included BrowserSync.
 
 CSS
 
